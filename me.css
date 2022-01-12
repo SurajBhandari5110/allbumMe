@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.con{
+    display: flex;
+    flex-wrap:wrap;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    justify-content:center;
+    align-items:center;
+    align-content:center;
+   
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Moon Dance', cursive;
+}
+
+    
+.b1{
+    background-image: url("pic1.jpg");
+    
+    border: 1px solid rgb(143, 87, 61) ;
+    width: 9em;
+    height: 9em;
+     background-size: cover;
+    background-repeat: no-repeat; 
+    align-content: center;
+    text-align: center;
+    
+    
+
+}
+
+.b2{
+    border: 1px solid rgb(143, 87, 61);
+    background-image: url("pic2.jpg");
+    width: 9em;
+    height: 9em;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.b3{
+    border: 1px solid rgb(143, 87, 61);
+    background-image: url("pic3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    width: 9em;
+    height: 9em;
+}
+.b4{
+    border: 1px solid rgb(143, 87, 61);
+    background-image: url("pic4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 9em;
+  
+    height: 9em;
+}
+.b5{
+    border: 1px solid rgb(143, 87, 61);
+    background-image: url("pic5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 9em;
+  
+    height: 9em;
+    
+}
+.b6{
+    border: 1px solid rgb(143, 87, 61);
+    background-image: url("pic6.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 9em;
+  
+    height: 9em;
+    
+}
+.b7{
+    border: 1px solid rgb(143, 87, 61);
+    background-image: url("pic7.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 9em;
+  
+    height: 9em;
+    
+}
+.b8{
+    border: 1px solid rgb(143, 87, 61);
+    background-image: url("pic8.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 9em;
+  
+    height: 9em;
+    
+}
+.b9{
+    border: 1px solid rgb(143, 87, 61);
+    background-image: url("pic9.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 9em;
+  
+    height: 9em;
+    
+}
+.b10{
+    border: 1px solid rgb(143, 87, 61);
+    background-image: url("pic10.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 9em;
+  
+    height: 9em;
+    
+}
+.b11{
+    border: 1px solid rgb(143, 87, 61);
+    background-image: url("pic11.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 9em;
+  
+    height: 9em;
+    
+}
+.b12{
+    border: 1px solid rgb(143, 87, 61);
+    background-image: url("pic12.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 9em;
+  
+    height: 9em;
+    
+}
