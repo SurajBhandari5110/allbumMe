@@ -19,7 +19,10 @@ h1{
     justify-content: center;
     font-family: 'Moon Dance', cursive;
 }
-
+img{
+    opacity: 0;
+    height: 8rem;
+}
     
 .b1{
     background-image: url("pic1.jpg");
